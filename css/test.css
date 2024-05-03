@@ -1,0 +1,30 @@
+body{
+	background-color: lightcyan;
+}
+h1{
+
+	font-size: 30px;
+	color: #13ebb2;
+}
+
+h2{
+	color:MediumVioletRed;
+	font-size: 20px;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	text-transform: lowercase;
+	text-indent: 50px;
+}
+
+h1 span{
+	color: darkviolet;
+}
